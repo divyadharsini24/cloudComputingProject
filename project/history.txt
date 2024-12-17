@@ -1,0 +1,437 @@
+  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim vim.txt
+   72  cd /
+   73  cd home
+   74  cd administrator
+   75  cd Desktop
+   76  cd cloudx
+   77  cd cloud
+   78  cd ..
+   79  touch datax.txt
+   80  cat > datax.txt
+   81  cd /
+   82  sudo useradd divya 
+   83  sudo passwd divya
+   84  ll divya
+   85  ll datax.txt
+   86  cat /etc/passwd
+   87  sudo useradd divya
+   88  clear
+   89  cd /
+   90  cd home 
+   91  administrator
+   92  cd Desktop
+   93  su divya
+   94  touch data.txt
+   95  su divya
+   96  touch datax.txt
+   97  su divya
+   98  chmod 755 datax.txt
+   99  su divya
+  100  ll datax.txt
+  101  chmod 756 datax.txt
+  102  su divya
+  103  sudo divya del
+  104  sudo userdel divya
+  105  cat /etc/passwd
+  106  ll datax.txt
+  107  clear
+  108  neno shall.sh
+  109  clear
+  110  nano shall.sh
+  111  ./shall
+  112  ./shall.sh
+  113  nano shall.sh
+  114  cat shall.sh
+  115  nano shall.sh
+  116  ./shall.sh
+  117  chmod 755 shall.sh
+  118  ./shall.sh
+  119  cat shall.sh
+  120  cat aa.sh
+  121  nano shall.sh
+  122  ./shall.sh
+  123  nano shall.sh
+  124  ./shall.sh
+  125  nano shall.sh
+  126  ./shall.sh
+  127  nano shall.sh
+  128  ./shall.sh
+  129  nano shall.sh
+  130  ./shall.sh
+  131  cat shall.sh
+  132  nano shall.sh\
+  133  cd /
+  134  cd home
+  135  cd administrator
+  136  cd Desktop
+  137  git --version
+  138  mkdir cloud
+  139  cd cloud
+  140  git init
+  141  git config --list
+  142  git config --global user.name "divyaa"
+  143  git config --list
+  144  git config --gobal init.defaultbranch main
+  145  git config --global init.defaultbranch main
+  146  git config --global user.email "divyadharsinir0207@gmail.com"
+  147  git config --list
+  148  git config --global core.eol lf
+  149  git config --list
+  150  git config --global core.ignorcase true 
+  151  git config --list
+  152  git config --global core.autocrlf input
+  153  git config --list
+  154  ls
+  155  git clone 
+  156  git clone https://github.com/divyadharsini24/Democloud.git
+  157  ls
+  158  cd democloud
+  159  cd Democloud
+  160  touch data.txt
+  161  ls
+  162  git add data.txt
+  163  cat > data.txt
+  164  cat data.txt
+  165  git commit -m "first commit'
+  166  git commit -m "first commit"
+  167  git status
+  168  git status
+  169  git commit -m "second commit'
+  170  git commit -m "second commit"
+  171  git status
+  172  git push  origin main 
+  173  git remote -v
+  174  get remote set-url origin "https://ghp-qcTj25oM3aseaMiRIqNbXuXybeGf3H2tks@github.com/divyadharsini24/Democloud"
+  175  git remote set-url origin "https://ghp-qcTj25oM3aseaMiRIqNbXuXybeGf3H2tks@github.com/divyadharsini24/Democloud"
+  176  git remote -v
+  177  git status
+  178  git remote set-url origin "https://ghp_qCTj25oM3aseaMiRIqyNbXuXybeGf3H2tks@github.com/divyadharsini24/Democloud"
+  179  git remote set-url origin "https://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@github.com/divyadharsini24/Democloud"
+  180  git remote -v
+  181  git status
+  182  git push origin main
+  183  cat data.txt
+  184  clear
+  185  cd /
+  186  cd ..
+  187  cd Desktop
+  188  clear
+  189  cd administratory
+  190  cd administrator
+  191  clear
+  192  cd home
+  193  cd administrator
+  194  cd Desktop
+  195  mkdir testx
+  196  cd testx
+  197  git init
+  198  git confir --list
+  199  git config --list
+  200  git clone "//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@github.com/divyadharsini24/Democloud
+  201  git clone "//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@github.com/divyadharsini24/cloudxx
+  202  git clone "//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@github.com/divyadharsini24/cloudxx.git"
+  203  git clone "http://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@github.com/divyadharsini24/cloudxx.git"
+  204  touch tst.txt
+  205  cat >tst.txt
+  206  get commit -m "first"
+  207  git commit -m "first"
+  208  git add tst.txt
+  209  git commit -m "first"
+  210  git states
+  211  git status
+  212  git commit -m "first"
+  213  git add tst.txt
+  214  git commit -m "second"
+  215  git add tst.txt
+  216  git status
+  217  cd cloudxx
+  218  touch testx.txt
+  219  cat >test.txt
+  220  ls
+  221  git commit -m "test"
+  222  git add testx.txt
+  223  git status
+  224  git add testx.txt
+  225  git status
+  226  ls
+  227  git add.
+  228  git add . 
+  229  git status
+  230  git commit -m "test2"
+  231  git add . 
+  232  git status
+  233  git push origin main 
+  234  git clone "https://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@github.com/divyadharsini24/cloudxx.git"
+  235  git push origin main 
+  236  git push origin main
+  237  git remote set-url origin  "https://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@github.com/divyadharsini24/cloudxx.git"
+  238  git remote -v
+  239  git push origin main 
+  240  cd /
+  241  cd home 
+  242  cd administrator 
+  243  cd project 
+  244  cd desktop
+  245  cd Desktop
+  246  cd project 
+  247  ls 
+  248  history
+  249  cd ..
+  250  history
+  251  cd ..
+  252  history
+  253  clear
+  254  cd home 
+  255  cd administrator 
+  256  cd Desktop
+  257  cd project 
+  258  cd uno
+  259  cd ..
+  260  history 
+  261  ls
+  262  nono config_2.sh
+  263  nano config_2.sh
+  264  sh config_2.sh
+  265  nano config_2.sh
+  266  sh config_2.sh
+  267  nano config_2.sh
+  268  mkdir user 
+  269  cat >user.cfg
+  270  ll
+  271  cd user 
+  272  cd /
+  273  cd home
+  274  cd administrator
+  275  cd Desktop
+  276  cd project 
+  277  ls
+  278  cd uno
+  279  ls
+  280  cat unox.cfg
+  281  touch unoz.txt
+  282  cat >unoz.txt
+  283  cat unoz.txt
+  284  vim vim.txt
+  285  cd /
+  286  cd home 
+  287  cd administartor
+  288  cd administrator
+  289  cd project
+  290  cd Desktop
+  291  cd project
+  292  cd user
+  293  ll
+  294  ls -l
+  295  ls -ld
+  296  chmod 700 user.cfg
+  297  ls
+  298  touch user.txt
+  299  ll
+  300  chmod 700 user.txt
+  301  ll
+  302  cd ..
+  303  mkdir group 
+  304  cd group
+  305  touch group.txt
+  306  ll
+  307  chmod 070group.txt
+  308  ll
+  309  chmod 070group.txt
+  310  cat >group.txt
+  311  ll
+  312  chmod 070group.txt
+  313  cat group.txt
+  314  cat >group.txt
+  315  cat group.txt
+  316  cd ..
+  317  mkdir other
+  318  cd other
+  319  touch other.txt
+  320  cat >other.txt
+  321  cat other.txt
+  322  cat > other.txt
+  323  cat other.txt
+  324  chmod 777other.txt
+  325  cd ..
+  326  ll
+  327  cd group
+  328  ls
+  329  cat >group.txt
+  330  cat group.txt
+  331  ll group.txt
+  332  chmod 007group.txt
+  333  chmod 003group.txt
+  334  chmod 070 group.txt
+  335  ll
+  336  cd .
+  337  cd ..
+  338  cd other 
+  339  ls
+  340  chmod 007 other.txt
+  341  ll
+  342  nano nano.sh 
+  343  sh nano.sh 
+  344  nano nano.sh 
+  345  sh nano.sh 
+  346  ./ nano.sh
+  347  nano nano.sh 
+  348  ./ nano.sh
+  349  sh nano.sh
+  350  nano nano.sh 
+  351  sh nano.sh
+  352  nano nano.sh 
+  353  sh nano.sh
+  354  nano nano.sh 
+  355  chmod 777 nano.sh
+  356  ./nano.sh
+  357  chmod 755 nano.sh
+  358  ./nano.sh
+  359  sh nano.sh
+  360  cd ..
+  361  sh nano.sh
+  362  nano nano.sh
+  363  cd other 
+  364  sh nano.sh
+  365  ./nano.sh
+  366  nano nano.sh
+  367  sh nano.sh
+  368  nano nano.sh
+  369  sh nano.sh
+  370  nano nano.sh
+  371  sh nano.sh
+  372  nano nano.sh
+  373  sh nano.sh
+  374  nano nano.sh
+  375  sh nano.sh
+  376  nano nano.sh
+  377  sh nano.sh
+  378  ./nano.sh
+  379  nano nano.sh
+  380  cd ..
+  381* 
+  382  config_1.sh
+  383  cat config_1.sh
+  384  cat data.txt
+  385  grep "E" data.txt
+  386  grep -i "E" data.txt
+  387  grep "^w" data.txt
+  388  grep "*.cfg"
+  389  grep *.cfg
+  390  grep -r *.cfg project
+  391  cd ..
+  392  cd project
+  393  ls
+  394  ls -l
+  395  ls .cfg -l
+  396  cd atthis
+  397  ls 
+  398  cd ..
+  399  cd chess 
+  400  ls
+  401  cd ..
+  402  cd CS:GO
+  403  LS
+  404  ls
+  405  cd ..
+  406  cd dis
+  407  cd uno
+  408  ls
+  409  cd ..
+  410  ls
+  411  cd ..
+  412  cd dontkill
+  413  ls
+  414  cd ..
+  415  cd happychamper 
+  416  ls
+  417  cd Happychamber 
+  418  cd Happychamper 
+  419  ls
+  420  cd ..
+  421  cd monopoly
+  422  ls
+  423  cd ..
+  424  cd genzboy 
+  425  ls
+  426  cd ..
+  427  cd fortnite 
+  428  cd Fortnite 
+  429  ls
+  430  cd ..
+  431  cd matchbomber 
+  432  ls
+  433  cd ..
+  434  history
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/project$ 
+
+
